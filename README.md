@@ -12,6 +12,4 @@ Credit card fraud is a significant issue that affects cardholders and financial 
 - **Visualization:** Visualizing the results and important insights.
 - **Documentation:** Providing detailed documentation and usage examples.
 
-## Data
 
-The dataset used for this project is not included in this repository due to its size. You can obtain the dataset from [source_link_here]. Make sure to place the dataset in a folder named `data` within the project directory.
